@@ -30,6 +30,11 @@ OYUN DOSYALARI : https://drive.google.com/file/d/1zrIhi1VKMo0NFq5OecCImFes_HDFwI
 
 OYUN GÖRSELLERİ : https://drive.google.com/drive/folders/1ZUI92xwYx6w_78aSKyGt41zaaRY3xW9I?usp=sharing
 
+
+Hocam Merhaba,
+
+Oyun dosyalarımın boyutu yüksek olduğu için github uploadı yaparken hata verdi. Ben de sizin whatsapp grubumuzda dediğiniz gibi drive'a public olarak yükledim.
+
         
 
 
